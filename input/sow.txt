@@ -1,0 +1,3 @@
+The signed SOW includes standard reporting dashboards only.
+Custom reporting dashboards are not included.
+Project duration is 12 weeks.
