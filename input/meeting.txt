@@ -1,0 +1,47 @@
+Meeting Title: Weekly Project Status Call
+Date: 02-Apr-2026
+Duration: 45 minutes
+
+[00:00] User 1:
+Good morning everyone. Let’s start with the weekly status update. Overall progress looks stable, and core development activities are on track as per the plan.
+
+[02:15] User 2:
+Yes, from the development side, all planned user stories for the current sprint are progressing as expected. No major blockers so far.
+
+[05:40] User 3:
+I want to bring up a request discussed internally. The client has asked whether we can add an additional reporting dashboard with monthly and quarterly analytics.
+
+[07:10] User 1:
+Just to clarify, this reporting dashboard is not part of the originally signed SOW, correct?
+
+[07:25] User 3:
+Correct. The signed scope includes only standard reports. This would be an additional custom dashboard requirement.
+
+[09:00] User 2:
+From an effort perspective, adding this dashboard would require additional design, development, and testing. We estimate this could extend the timeline by approximately two weeks.
+
+[11:30] User 4:
+There is also a dependency on the external vendor for the required data feeds. If the data is delayed, it could further impact delivery.
+
+[14:10] User 1:
+Understood. Given that this is a scope change, we should raise a formal Change Request with impact analysis covering timeline and potential cost.
+
+[16:00] User 3:
+Agreed. The client has asked us to share a CR document for review before they provide formal approval.
+
+[18:45] User 2:
+One assumption here is that the vendor data will be available by the next sprint. If that does not happen, the risk increases.
+
+[21:20] User 1:
+Let’s document this as a risk and dependency. We should also capture that no approval has been received yet.
+
+[25:00] User 4:
+No other major issues from my side. Current issues are limited to pending confirmation on this additional dashboard request.
+
+[30:10] User 1:
+Action item: Team to prepare a Change Request document with schedule impact and recommendations and share it with the client by end of this week.
+
+[32:00] User 1:
+If there are no further questions, we can close the meeting.
+
+[33:00] Meeting Ended
