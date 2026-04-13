@@ -1,0 +1,31 @@
+{
+  "pmoAgent": "PMO_AGENT_V1",
+  "agentInvoked": "CR_AGENT",
+  "inputsUsed": [
+    "meeting",
+    "sow",
+    "emails"
+  ],
+  "output": {
+    "crId": "CR-AUTO-001",
+    "title": "Add Custom Monthly and Quarterly Reporting Dashboard",
+    "description": "The client has requested an additional custom reporting dashboard with monthly and quarterly analytics, which is not included in the originally signed SOW. The dashboard will require design, development, testing, and integration with external vendor data feeds.",
+    "reasonForChange": "Client requirement for enhanced reporting capabilities beyond the standard scope defined in the SOW.",
+    "impactAnalysis": {
+      "scheduleImpact": "Approximately 2 weeks extension to the project timeline due to additional development, testing, and potential delays in vendor data feeds.",
+      "costImpact": "Additional development, testing, and potential vendor coordination costs. Exact cost to be determined during detailed estimation.",
+      "scopeImpact": "Expansion of project scope to include custom reporting dashboard features not originally planned."
+    },
+    "recommendation": "Proceed with the Change Request after formal client approval. Ensure vendor data availability is confirmed before finalizing the timeline. Document all assumptions and risks.",
+    "jira_payload": {
+      "project_key": "SCRUM-SPRINT-1",
+      "issue_type": "Task",
+      "summary": "Implement Custom Monthly and Quarterly Reporting Dashboard",
+      "description": "Develop and integrate a custom reporting dashboard with monthly and quarterly analytics as per client request. This includes design, development, testing, and coordination with external vendor for data feeds. \n\n**Dependencies:**\n- External vendor data feed availability\n- Client approval for Change Request\n\n**Risks:**\n- Timeline extension if vendor data is delayed\n- Additional cost implications\n\n**Assumptions:**\n- Vendor data will be available by next sprint\n- Client approves Change Request by end of week",
+      "labels": [
+        "SCRUM: My Software Team",
+        "change-request"
+      ]
+    }
+  }
+}
